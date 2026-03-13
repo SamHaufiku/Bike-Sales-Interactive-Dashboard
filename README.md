@@ -13,4 +13,4 @@ This project involves a comprehensive data cleaning and visualization process fo
 * **Middle-aged professionals** represent the most consistent buyer persona.
 * Higher income levels correlate with a higher probability of purchase across both genders.
 
-[View the Live Dashboard Screenshots here](https://SamHaufiku.github.io)
+(https://SamHaufiku.github.io)
