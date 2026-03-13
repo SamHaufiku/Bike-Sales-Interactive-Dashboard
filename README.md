@@ -1,4 +1,4 @@
-# 🚲 Bike Sales Interactive Dashboard (Excel)
+#  Bike Sales Interactive Dashboard (Excel)
 
 ## Project Overview
 This project involves a comprehensive data cleaning and visualization process for a bike sales dataset containing 1,000 records. The goal was to identify key trends in customer behavior to help a retail business optimize its marketing strategy.
@@ -13,4 +13,4 @@ This project involves a comprehensive data cleaning and visualization process fo
 * **Middle-aged professionals** represent the most consistent buyer persona.
 * Higher income levels correlate with a higher probability of purchase across both genders.
 
-(https://SamHaufiku.github.io)
+https://SamHaufiku.github.io
